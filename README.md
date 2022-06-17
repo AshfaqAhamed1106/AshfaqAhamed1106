@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Ashfaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamashfaqahamed&show_icons=true&theme=tokyonight)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=iamashfaqahamed&show_icons=true&theme=tokyonight" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamashfaqahamed&layout=compact)](https://github.com/iamashfaqahamed/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+
